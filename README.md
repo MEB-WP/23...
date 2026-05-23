@@ -163,7 +163,7 @@
 
       <div>
         <span class="label">Taille :</span>
-        2XL
+        M
       </div>
 
       <div>
@@ -174,7 +174,7 @@
     </div>
 
     <div class="sku">
-      SKU : MEB-23STR-BS-001-WHT-2XL-TS
+      SKU : MEB-23STR-BS-001-WHT-M-TS
     </div>
 
     <a href="#" class="button">
